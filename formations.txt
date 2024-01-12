@@ -4,3 +4,5 @@ JS
 PHP
 SYMFONY
 //Training list//
+
+On ajoute cette ligne pour la branche devops
