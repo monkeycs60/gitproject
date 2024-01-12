@@ -1,3 +1,5 @@
 INFO
 TEST
 //Domains list//
+
+Ceci est un domaine
