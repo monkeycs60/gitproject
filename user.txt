@@ -3,3 +3,5 @@ Clément Serizay
 
 
 user from devops
+
+new entry for user from devops
